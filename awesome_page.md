@@ -16,3 +16,4 @@ Setting text *italic*.
 
 A [link to something cool](http://patrickshelby.github.io).
 
+Adding a branch should generate a pull request.
