@@ -12,8 +12,10 @@ git clone URL
 ```
 
 Setting text **bold**.
-Setting text *italic*. 
+Setting text *italic*.
 
 A [link to something cool](http://patrickshelby.github.io).
 
 Adding a branch should generate a pull request.
+
+adding random stuff.
